@@ -11,7 +11,7 @@ collections:
     folder: "content/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
+    editor: "Walter"
     preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
